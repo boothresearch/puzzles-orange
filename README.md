@@ -6,7 +6,7 @@ In this repository, you'll find twenty-five folders, each containing one puzzle.
 
 Here are the puzzles in very approximate order of difficulty. (As you're dividing and conquering, keep the difficulty level in mind relative to each of your Python proficiency.)
 
- - leap
+ - [ ] leap
  - darts
  - collatz-conjecture
  - scrabble-score
