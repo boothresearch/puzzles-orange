@@ -12,7 +12,7 @@ Please check finished tasks below:
 - [ ] word-count
 - [ ] rotational-cipher
 - [ ] atbash-cipher
-- [ ] isbn-verifier
+- [x] isbn-verifier
 - [ ] pig-latin
 - [ ] roman-numerals
 - [ ] run-length-encoding
