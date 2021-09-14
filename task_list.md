@@ -1,9 +1,9 @@
 # Task List
 Please check finished tasks below:
 
-- [ ] leap
+- [x] leap
 - [ ] darts
-- [ ] collatz-conjecture
+- [x] collatz-conjecture
 - [ ] scrabble-score
 - [ ] anagram
 - [ ] acronym
