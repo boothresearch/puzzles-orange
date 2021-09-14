@@ -1,7 +1,6 @@
 def steps(n):
     if(n<=0):
-        return(ValueError)
-        print("n must be positive")
+        raise ValueError ("n must be positive")
     else:
         s=0
         while(n>1) :
