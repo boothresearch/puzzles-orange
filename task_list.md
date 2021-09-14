@@ -2,10 +2,10 @@
 Please check finished tasks below:
 
 - [x] leap
-- [ ] darts
+- [x] darts
 - [x] collatz-conjecture
 - [x] scrabble-score
-- [ ] anagram
+- [x] anagram
 - [ ] acronym
 - [ ] isogram
 - [ ] pangram
