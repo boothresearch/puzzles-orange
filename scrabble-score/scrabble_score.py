@@ -30,8 +30,5 @@ def score(word):
         wordScore = wordScore + letterScore
 
     # Print the score of the word
-    print(wordScore)
-        
+    return wordScore
 
-# Test
-score("Prithvi Pahwa")
