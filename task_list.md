@@ -4,7 +4,7 @@ Please check finished tasks below:
 - [x] leap
 - [ ] darts
 - [x] collatz-conjecture
-- [ ] scrabble-score
+- [x] scrabble-score
 - [ ] anagram
 - [ ] acronym
 - [ ] isogram
@@ -14,7 +14,7 @@ Please check finished tasks below:
 - [ ] atbash-cipher
 - [x] isbn-verifier
 - [ ] pig-latin
-- [ ] roman-numerals
+- [-] roman-numerals
 - [ ] run-length-encoding
 - [ ] say
 - [ ] matrix
